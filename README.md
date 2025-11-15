@@ -78,7 +78,8 @@ ai-career-agent/
 Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-career-agent.git
+git clone https://github.com/Snehaa044/AI-Career-Agent.git
+
 cd ai-career-agent
 
 
